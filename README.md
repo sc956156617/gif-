@@ -2,7 +2,7 @@
 
 使用引入头文件，签订代理
 
-@interface ViewController () <SCLoopDelegate>
+<SCLoopDelegate>
 
 @property (nonatomic, strong) SCLoop *loop;
 
